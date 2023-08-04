@@ -1,2 +1,2 @@
 # My_Code_Examples
-Various scripts made by me
+Various scripts created and modified by me
